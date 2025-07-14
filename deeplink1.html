@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Open App</title>
+    <script type="text/javascript">        window.location = "myapp://go.fsipcsii.com/fsip?data=123";
+        setTimeout(function() {
+            // 如果 App 没有打开，显示下载链接
+            document.getElementById('download').style.display = 'block';
+        }, 500);
+    </script>
+</head>
+<body>
+    <p id="download" style="display:none;">请安装我们的App：<a href="https://play.google.com/store/apps/details?id=com.csii.samescreenassistance">点击下载</a></p>
+</body>
+</html>
