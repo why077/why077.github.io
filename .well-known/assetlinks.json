@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.csii.samescreenassistance",
+    "sha256_cert_fingerprints":
+    ["01:5F:C0:21:A5:CE:AF:29:0C:52:B1:E2:CC:60:A7:1A:0F:83:12:44:CD:E4:B2:F1:86:B0:AC:57:3C:A4:1E:A3"]
+  }
+}]
