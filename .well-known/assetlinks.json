@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.csiivp.sample",
+    "package_name": "com.csii.samescreenassistance",
     "sha256_cert_fingerprints":
-    ["FC:AD:67:CA:DA:E7:78:3E:BB:BB:A1:EE:B8:76:24:A5:B5:BC:7A:57:6E:A7:EE:A7:A5:0C:EE:3B:BF:EB:3A:AE"]
+    ["01:5F:C0:21:A5:CE:AF:29:0C:52:B1:E2:CC:60:A7:1A:0F:83:12:44:CD:E4:B2:F1:86:B0:AC:57:3C:A4:1E:A3"]
   }
 }]
